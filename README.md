@@ -16,6 +16,7 @@ author of several webnovels which can be found on [ScribbleHub](https://www.scri
 ![Redis](https://img.shields.io/badge/Technology-Redis-red?style=flat&logo=Redis)
 ![MongoDB](https://img.shields.io/badge/Technology-MongoDB-green?style=flat&logo=MongoDB)
 ![Sentry](https://img.shields.io/badge/Technology-Sentry-green?style=flat&logo=Sentry)
+![Docker](https://img.shields.io/badge/Technology-Docker-blue?style=flat&logo=Docker)
 ![Vue.js](https://img.shields.io/badge/Framework-Vue.js-green?style=flat&logo=Vue.js)
 ![IntelliJ](https://img.shields.io/badge/IDE-IntelliJ-red?style=flat&logo=IntelliJ%20IDEA)
 ![VS Code](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat&logo=Visual%20Studio%20Code)
