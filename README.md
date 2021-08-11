@@ -4,12 +4,11 @@ Shindou Mihou, developer of Mana.
 </div>
 
 ## 📚 About Me
-Hello, I am Shindou Mihou! A 16 year old coming from the Philippines (🇵🇭) who mainly works on Java, PHP, Javascript and several other languages. I am the sole developer of 
-Mana which is a Discord bot that mainly focuses on the anime community, bringing waifu and yuri images to the chatrooms at an hourly or quarterly basis. I am also an
-author of several webnovels which can be found on [ScribbleHub](https://www.scribblehub.com/profile/24680/mihou/).
+Hello, I am Shindou Mihou! A 16 year old coming from the Philippines (🇵🇭) who mainly works on `Java` and `Rust` with `PHP`, `Javascript` and several other languages. I am the sole developer of Mana which is a Discord bot that mainly focuses on the anime community, bringing waifu and yuri images to the chatrooms at an hourly or quarterly basis. I am also an author of several webnovels which can be found on [ScribbleHub](https://www.scribblehub.com/profile/24680/mihou/).
 
 ## 🖥️ Languages & Technologies Used
 ![Java](https://img.shields.io/badge/Language-Java-yellow?style=flat&logo=java)
+![Rust](https://img.shields.io/badge/Language-Rust-orange?style=flat&logo=Rust)
 ![Javascript](https://img.shields.io/badge/Language-Javascript-yellow?style=flat&logo=javascript)
 ![PHP](https://img.shields.io/badge/Language-PHP-blue?style=flat&logo=php)
 ![HTML](https://img.shields.io/badge/Language-HTML-orange?style=flat&logo=HTML5)
