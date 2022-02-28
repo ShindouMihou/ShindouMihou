@@ -4,7 +4,9 @@ Shindou Mihou, developer of Mana.
 </div>
 
 ## 📚 About Me
-Hello, I am Shindou Mihou! A 17 year old coming from the Philippines (🇵🇭) who mainly works on `Java` and `Rust` with `PHP`, `Javascript` and several other languages. I am the sole developer of [Mana](manabot.fun), active developer of [Beemo](beemo.gg) and an author of several webnovels which can be found on [ScribbleHub](https://www.scribblehub.com/profile/24680/mihou/).
+Hey there! 👋 
+
+I am Miu, 17 years old from the Philippines (🇵🇭) who is proficient `Java`, `Rust`, `PHP`, `Javascript` and several other languages; the sole developer of [Mana](manabot.fun), an active developer of [Beemo](beemo.gg) and an author of several webnovels which can be found on [ScribbleHub](https://www.scribblehub.com/profile/24680/mihou/).
 
 ## 🖥️ Languages & Technologies Used
 ![Java](https://img.shields.io/badge/Language-Java-yellow?style=flat&logo=java)
