@@ -6,23 +6,27 @@ Shindou Mihou, developer of Mana.
 ## 📚 About Me
 Hey there! 👋 
 
-I am Miu, 17 years old from the Philippines (🇵🇭) who is proficient `Java`, `Rust`, `PHP`, `Javascript` and several other languages; the sole developer of [Mana](manabot.fun), an active developer of [Beemo](beemo.gg) and an author of several webnovels which can be found on [ScribbleHub](https://www.scribblehub.com/profile/24680/mihou/).
+I am Miu, 17 years old from the Philippines (🇵🇭) who is proficient `Java`, `Kotlin` `Rust`, `PHP`, `Javascript` and several other languages; the sole developer of [Mana](manabot.fun), an active developer of [Beemo](beemo.gg) and an author of several webnovels which can be found on [ScribbleHub](https://www.scribblehub.com/profile/24680/mihou/).
 
-## 🖥️ Languages & Technologies Used
+## 🍮 Favorite Languages & Technologies
 ![Java](https://img.shields.io/badge/Language-Java-yellow?style=flat&logo=java)
 ![Rust](https://img.shields.io/badge/Language-Rust-orange?style=flat&logo=Rust)
+![Kotlin](https://img.shields.io/badge/Language-Kotlin-purple?style=flat&logo=Kotlin)
 ![Javascript](https://img.shields.io/badge/Language-Javascript-yellow?style=flat&logo=javascript)
 ![Typescript](https://img.shields.io/badge/Language-Typescript-blue?style=flat&logo=typescript)
-![PHP](https://img.shields.io/badge/Language-PHP-blue?style=flat&logo=php)
-![HTML](https://img.shields.io/badge/Language-HTML-orange?style=flat&logo=HTML5)
 ![Redis](https://img.shields.io/badge/Technology-Redis-red?style=flat&logo=Redis)
 ![MongoDB](https://img.shields.io/badge/Technology-MongoDB-blue?style=flat&logo=MongoDB)
-![MySQL](https://img.shields.io/badge/Technology-MySQL-green?style=flat&logo=MySQL)
-![Sentry](https://img.shields.io/badge/Technology-Sentry-green?style=flat&logo=Sentry)
 ![Docker](https://img.shields.io/badge/Technology-Docker-blue?style=flat&logo=Docker)
 ![Svelte](https://img.shields.io/badge/Framework-Svelte-orange?style=flat&logo=Svelte)
 ![IntelliJ](https://img.shields.io/badge/IDE-IntelliJ-red?style=flat&logo=IntelliJ%20IDEA)
 ![VS Code](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat&logo=Visual%20Studio%20Code)
+
+## 🖥️ Additional Technologies and Languages
+![PHP](https://img.shields.io/badge/Language-PHP-blue?style=flat&logo=php)
+![HTML](https://img.shields.io/badge/Language-HTML-orange?style=flat&logo=HTML5)
+![MySQL](https://img.shields.io/badge/Technology-MySQL-green?style=flat&logo=MySQL)
+![Sentry](https://img.shields.io/badge/Technology-Sentry-green?style=flat&logo=Sentry)
+![Laravel](https://img.shields.io/badge/Technology-Laravel-orange?style=flat&logo=Laravel)
 
 ## 📊 Statistics
 ![Mihou's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShindouMihou&theme=midnight-purple&hide=stars&count_private=true&show_icons=true)
