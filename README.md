@@ -29,6 +29,10 @@ I am Miu, 17 years old from the Philippines (🇵🇭) who is proficient `Java`,
 ![Sentry](https://img.shields.io/badge/Technology-Sentry-green?style=flat&logo=Sentry)
 ![Laravel](https://img.shields.io/badge/Framework-Laravel-orange?style=flat&logo=Laravel)
 
+## 📰 Latest Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## 📊 Statistics
 ![Mihou's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShindouMihou&theme=midnight-purple&hide=stars&count_private=true&show_icons=true)
 
