@@ -31,7 +31,6 @@ I am Miu, 17 years old from the Philippines (🇵🇭) who is proficient `Java`,
 
 ## 📰 Latest Posts
 <!-- BLOG-POST-LIST:START -->
-- [Goodnight, Mana](https://blog.mihou.pw/posts/goodnight-mana)
 - [A Letter to Clean Code](https://blog.mihou.pw/posts/a-letter-to-clean-code)
 - [From Laravel to SvelteKit](https://blog.mihou.pw/posts/from-laravel-to-sveltekit)
 - [Why Javacord over other Java Discord Wrappers?](https://blog.mihou.pw/posts/why-javacord-over-other-java-discord-wrappers)
