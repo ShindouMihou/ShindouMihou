@@ -19,6 +19,8 @@ I am Miu, 17 years old from the Philippines (🇵🇭). I've been in the field f
 ![Docker](https://img.shields.io/badge/Devops-Docker-blue?style=flat&logo=Docker)
 ![Docker Swarm](https://img.shields.io/badge/Devops-Docker%20Swarm-blue?style=flat&logo=Docker)
 ![Svelte](https://img.shields.io/badge/Framework-Svelte-orange?style=flat&logo=Svelte)
+![React](https://img.shields.io/badge/Framework-React-blue?style=flat&logo=React)
+![React Native](https://img.shields.io/badge/Framework-React%20Native-blue?style=flat&logo=React)
 ![IntelliJ](https://img.shields.io/badge/IDE-IntelliJ-red?style=flat&logo=IntelliJ%20IDEA)
 ![VS Code](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat&logo=Visual%20Studio%20Code)
 
