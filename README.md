@@ -1,6 +1,6 @@
 [![Mana](https://cdn.manabot.fun/images/test.png)](https://manabot.fun)
 <div align="center">
-Shindou Mihou, developer of Mana.
+Shindou Mihou
 </div>
 
 ## 📚 About Me
