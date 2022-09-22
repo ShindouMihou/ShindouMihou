@@ -33,6 +33,7 @@ I am Miu, 17 years old from the Philippines (🇵🇭). I've been in the field f
 
 ## 📰 Latest Posts
 <!-- BLOG-POST-LIST:START -->
+- [Kotlin, the simply beautiful JVM programming language.](https://blog.mihou.pw/posts/kotlin-the-simply-beautiful-jvm-programming-language)
 - [A Letter to Clean Code](https://blog.mihou.pw/posts/a-letter-to-clean-code)
 - [From Laravel to SvelteKit](https://blog.mihou.pw/posts/from-laravel-to-sveltekit)
 - [Why Javacord over other Java Discord Wrappers?](https://blog.mihou.pw/posts/why-javacord-over-other-java-discord-wrappers)
