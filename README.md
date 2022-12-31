@@ -6,7 +6,7 @@ Shindou Mihou
 ## 📚 About Me
 Hey there! 👋 
 
-I am Miu, 17 years old from the Philippines (🇵🇭). I've been in the field for not so long but I'm proficient enough in **Kotlin**, **Java**, **Typescript** and some other languages with a good enough knowledge on devops, databases (in particular, Redis and MongoDB), server management and some other details.
+I am Miu, 18 years old from the Philippines (🇵🇭). I've been in the field for not so long but I'm proficient enough in **Kotlin**, **Java**, **Typescript** and some other languages with a good enough knowledge on devops, databases (in particular, Redis and MongoDB), server management and some other details.
 
 ## 🍮 Favorite Languages & Technologies
 ![Java](https://img.shields.io/badge/Language-Java-yellow?style=flat&logo=java)
