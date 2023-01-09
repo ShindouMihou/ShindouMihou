@@ -40,8 +40,7 @@ some of the languages, tools and frameworks that i know and use.
 - databases: mongodb, redis, postgresql
 - frameworks: sveltekit, react native, laravel
 - coding env: intellij, webstorm, clion, fleet, visual studio code
-- devops: docker, docker swarm
-- monitoring: sentry, graphite, grafana, prometheus
+- devops and monitoring: docker, docker swarm, sentry, graphite, grafana, prometheus
 
 i want to learn the following:
 - monitoring: tempo, loki
