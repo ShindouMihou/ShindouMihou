@@ -15,6 +15,7 @@ I'm a self-proclaimed full-stack developer with a specific love for backend deve
 #### proud projects
 some projects that i am proud of.
 - [exponie.me](https://exponie.me): i was about to participate a spelling contest, but had no tool to help me practice... so i made one.
+- [ketshap](https://github.com/Ketshap/ketshap): integration with github for discord (more detailed embeds, etc.)
 - [nexus](https://github.com/ShindouMihou/Nexus): a kotlin-java discord framework for javacord that aims to be beautiful.
 - [amelia](https://github.com/Amelia-chan/Amelia): a rss discord bot that was built for scribblehub.
 - [flora](https://github.com/ShindouMihou/Flora): a simple, markdown-based, personal blogging platform written in svelte which powers [my blog](https://blog.mihou.pw).
