@@ -4,7 +4,7 @@
 
 #### Hi, I'm Mihou! 👋
 
-I'm a self-proclaimed full-stack developer with a specific love for backend development from the Bohol, Philippines. I'm currently primarily a Kotlin developer with Typescript, Svelte and Rust to create backends and frontends respectively. I plan to participate more in local meetups from where I am, so if you find me out there, feel free to hit me up! I'm more than happy to expand on my knowledge for things, therefore, if you have a particular stack, language or even tool that you want to recommend, come at me!
+I'm a self-proclaimed full-stack developer with a specific love for backend development from the Bohol, Philippines. I'm currently primarily a Kotlin developer with Typescript, Svelte and Rust to create backends and frontends respectively. I plan to participate more in local meetups from where I am, so if you find me out there, feel free to hit me up!
 
 #### about me
 - i'm eighteen years old at the time of writing, and am currently attending a local high school.
@@ -18,15 +18,14 @@ I'm a self-proclaimed full-stack developer with a specific love for backend deve
 #### proud projects
 some projects that i am proud of.
 - [exponie.me](https://exponie.me): i was about to participate a spelling contest, but had no tool to help me practice... so i made one.
-- [mana](https://github.com/ManaNet/): a discontinued discord bot that was the fuel for the start of my programming life.
 - [nexus](https://github.com/ShindouMihou/Nexus): a kotlin-java discord framework for javacord that aims to be beautiful.
 - [amelia](https://github.com/Amelia-chan/Amelia): a rss discord bot that was built for scribblehub.
 - [flora](https://github.com/ShindouMihou/Flora): a simple, markdown-based, personal blogging platform written in svelte which powers [my blog](https://blog.mihou.pw).
 - [myrubberduck](https://rubberduck.mihou.pw): a little rubber duck site with a [mobile version](https://github.com/ShindouMihou/MyRubberDuck-Native)
-- [envi](https://github.com/ShindouMihou/envi): a configuration module for java-kotlin developers.
 
 ##### legacy projects
 some even older projects that haven't been updated for some time now and can be improved way more.
+- [mana](https://github.com/ManaNet/): a discontinued discord bot that was the fuel for the start of my programming life.
 - [celestia](https://github.com/ShindouMihou/celestia): a logging stack that i used in production once for [mana](https://github.com/ManaNet) to trace errors and logs.
 - [youdiary](https://github.com/ShindouMihou/youdiary): a personal diary written in sveltekit and typescript that is used to store personal notes.
 - [velen](https://github.com/ShindouMihou/velen): the predecessor to [nexus](https://github.com/ShindouMihou/Nexus).
