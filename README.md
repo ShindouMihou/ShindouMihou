@@ -48,11 +48,6 @@ i want to learn the following:
 - monitoring: tempo, loki
 - languages: golang
 
-#### blog posts
-don't read any of these please, they tend to be old fast.
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 #### connect with me
 you can hit me up in any of these platforms.
 - discord: shindou mihou#5375
