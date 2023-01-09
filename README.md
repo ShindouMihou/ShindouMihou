@@ -8,12 +8,9 @@ I'm a self-proclaimed full-stack developer with a specific love for backend deve
 
 #### about me
 - i'm eighteen years old at the time of writing, and am currently attending a local high school.
-- i used to, and maybe still, write webnovels.
-- mangas, webtoons and comics are the epitome of me.
-- creating minimalistic graphics tends to be my hobby.
-- i'm a photographer who also loves to make cinematographs!
+- i used to, and maybe still, write webnovels and mangas, webtoons and comics are the epitome of me.
+- i'm a photographer who also loves to make cinematographs and creating minimalistic graphics tends to be my hobby.
 - i have a deep curiosity for anything that excites me, that's how i got into all my hobbies and even programming.
-- i'm not human.
 
 #### proud projects
 some projects that i am proud of.
