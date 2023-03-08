@@ -20,6 +20,8 @@ some projects that i am proud of.
 - [amelia](https://github.com/Amelia-chan/Amelia): a rss discord bot that was built for scribblehub.
 - [flora](https://github.com/ShindouMihou/Flora): a simple, markdown-based, personal blogging platform written in svelte which powers [my blog](https://blog.mihou.pw).
 - [myrubberduck](https://rubberduck.mihou.pw): a little rubber duck site with a [mobile version](https://github.com/ShindouMihou/MyRubberDuck-Native)
+- [nachos-go](https://github.com/ShindouMihou/nachos-go): a little Nats.io router that i use on some of my projects.
+- [sequelie](https://github.com/ShindouMihou/sequelie): a little Golang SQL query loader that i use in some of my golang projects.
 
 ##### legacy projects
 some even older projects that haven't been updated for some time now and can be improved way more.
@@ -34,15 +36,14 @@ there is more projects, but many of them are private sourced and have no plans r
 
 #### show ur stack
 some of the languages, tools and frameworks that i know and use.
-- languages: kotlin, java, rust, typescript, c
-- databases: mongodb, redis, postgresql
-- frameworks: sveltekit, react native, laravel
+- languages: kotlin (fave), java, rust, golang (fave and baby), typescript, c
+- databases: mongodb (fave), redis, postgresql
+- frameworks: sveltekit (fave), react native (fave), laravel
 - coding env: intellij, webstorm, clion, fleet, visual studio code
 - devops and monitoring: docker, docker swarm, sentry, graphite, grafana, prometheus
 
 i want to learn the following:
 - monitoring: tempo, loki
-- languages: golang
 
 #### connect with me
 you can hit me up in any of these platforms.
