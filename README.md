@@ -18,10 +18,10 @@ some projects that i am proud of.
 - [ketshap](https://github.com/Ketshap/ketshap): integration with github for discord (more detailed embeds, etc.)
 - [nexus](https://github.com/ShindouMihou/Nexus): a kotlin-java discord framework for javacord that aims to be beautiful.
 - [amelia](https://github.com/Amelia-chan/Amelia): a rss discord bot that was built for scribblehub.
-- [flora](https://github.com/ShindouMihou/Flora): a simple, markdown-based, personal blogging platform written in svelte which powers [my blog](https://blog.mihou.pw).
 - [myrubberduck](https://rubberduck.mihou.pw): a little rubber duck site with a [mobile version](https://github.com/ShindouMihou/MyRubberDuck-Native)
 - [nachos-go](https://github.com/ShindouMihou/nachos-go): a little Nats.io router that i use on some of my projects.
 - [sequelie](https://github.com/ShindouMihou/sequelie): a little Golang SQL query loader that i use in some of my golang projects.
+- [primrose](https://github.com/ShindouMihou/primrose): a simple, open and markdown-based personal blogging platform written with Golang and SvelteKit, powering [my blog](https://blog.mihou.pw).
 
 ##### legacy projects
 some even older projects that haven't been updated for some time now and can be improved way more.
@@ -31,6 +31,7 @@ some even older projects that haven't been updated for some time now and can be 
 - [velen](https://github.com/ShindouMihou/velen): the predecessor to [nexus](https://github.com/ShindouMihou/Nexus).
 - [rua](https://github.com/ShindouMihou/Rua): a simple rust reddit scraper.
 - [rosedb](https://github.com/ShindouMihou/RoseDB): one curious attempt at making a bad "database".
+- [flora](https://github.com/ShindouMihou/Flora): a simple, markdown-based, personal blogging platform written in svelte which used to power [my blog](https://blog.mihou.pw).
 
 there is more projects, but many of them are private sourced and have no plans right now to turn public... so that's all i can display for now.
 
@@ -47,5 +48,5 @@ i want to learn the following:
 
 #### connect with me
 you can hit me up in any of these platforms.
-- discord: shindou mihou#5375
+- discord: @s.miu
 - email: hello@mihou.pw
