@@ -17,7 +17,7 @@ some projects that i am proud of.
 - [burp](https://github.com/ShindouMihou/burp): a deployment tool designed for small-scale applications such as personal blogs. (powers Amelia and several other of my personal projects).
 - [guarde](https://github.com/ShindouMihou/guarde): a tcp-udp reverse proxy designed for adguard home and other self-hosted dns servers. (powers my home internet full of people with devices).
 - [git-uwu](https://github.com/ShindouMihou/git-uwu): a tool that makes your git commits uwu-ified.
-- [exponie.me](https://exponie.me): i was about to participate a spelling contest, but had no tool to help me practice... so i made one.
+- [exponie.me](https://exponie.me): i was about to participate a spelling contest, but had no tool to help me practice... so i made one. ([desktop client](https://github.com/ShindouMihou/exponie-desktop))
 - [ketshap](https://github.com/Ketshap/ketshap): integration with github for discord (more detailed embeds, etc.)
 - [nexus](https://github.com/ShindouMihou/Nexus): a kotlin-java discord framework for javacord that aims to be beautiful.
 - [amelia](https://github.com/Amelia-chan/Amelia): a rss discord bot that was built for scribblehub.
@@ -42,8 +42,8 @@ there is more projects, but many of them are private sourced and have no plans r
 some of the languages, tools and frameworks that i know and use.
 - languages: kotlin (fave), java, rust, golang (fave and baby), typescript, c
 - databases: mongodb (fave), redis, postgresql
-- frameworks: sveltekit (fave and baby), react native (fave), laravel
-- coding env: intellij, webstorm, clion, fleet, visual studio code
+- frameworks: sveltekit (fave and baby), react native (fave), laravel, wails (fave for making desktop apps)
+- coding env: intellij, goland, webstorm, clion, fleet, visual studio code
 - devops and monitoring: docker, docker swarm, sentry, graphite, grafana, prometheus
 
 i want to learn the following:
