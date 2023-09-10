@@ -14,6 +14,7 @@ I'm a self-proclaimed full-stack developer with a specific love for backend deve
 
 #### proud projects
 some projects that i am proud of.
+- [siopao](https://github.com/ShindouMihou/siopao): bun-inspired file i/o in golang!
 - [threadscore](https://threadscore.mihou.pw): gamify q&a for discord. threadscore is a discord bot that gamifies questions and answers by adding a points system to threads.
 - [burp](https://github.com/ShindouMihou/burp): a deployment tool designed for small-scale applications such as personal blogs. (powers Amelia and several other of my personal projects).
 - [guarde](https://github.com/ShindouMihou/guarde): a tcp-udp reverse proxy designed for adguard home and other self-hosted dns servers. (powers my home internet full of people with devices).
