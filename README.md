@@ -1,4 +1,4 @@
-![Shindou Mihou](https://user-images.githubusercontent.com/69381903/211315829-e1a8f930-d485-441e-a4ae-2d0805de924b.gif)
+![Shindou Mihou](https://github.com/ShindouMihou/ShindouMihou/assets/69381903/a7b0df26-7e27-47a0-a500-e3dad40dd6b0)
 
 ##
 
