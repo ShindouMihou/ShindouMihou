@@ -14,6 +14,7 @@ I'm a self-proclaimed full-stack developer with a specific love for backend deve
 
 #### proud projects
 some projects that i am proud of.
+- [flyght](https://flyght.mihou.pw): bringing know-your-member system to Discord.
 - [notie](https://github.com/ShindouMihou/notie): simply minimal, offline, notie-taking mobile application!
 - [siopao](https://github.com/ShindouMihou/siopao): bun-inspired file i/o in golang!
 - [threadscore](https://threadscore.mihou.pw): gamify q&a for discord. threadscore is a discord bot that gamifies questions and answers by adding a points system to threads.
@@ -47,10 +48,10 @@ some of the languages, tools and frameworks that i know and use.
 - databases: mongodb (fave), redis, postgresql
 - frameworks: sveltekit (fave and baby), react native (fave), laravel, wails (fave for making desktop apps)
 - coding env: intellij, goland, webstorm, clion, fleet, visual studio code
-- devops and monitoring: docker, docker swarm, sentry, graphite, grafana, prometheus
+- devops and monitoring: docker, docker swarm, sentry, graphite, grafana, prometheus, loki
 
 i want to learn the following:
-- monitoring: tempo, loki
+- monitoring: tempo
 
 #### connect with me
 you can hit me up in any of these platforms.
