@@ -7,13 +7,14 @@
 I'm a self-proclaimed full-stack developer with a specific love for backend development from the Bohol, Philippines. I'm currently primarily a Golang developer with Kotlin, Typescript, Svelte and Rust to create backends and frontends respectively. I plan to participate more in local meetups from where I am, so if you find me out there, feel free to hit me up!
 
 #### about me
-- i'm nineteen years old at the time of writing, and am currently attending a local high school.
+- i'm twenty years old at the time of writing, and am currently attending a local high school.
 - i used to, and maybe still, write webnovels and mangas, webtoons and comics are the epitome of me.
 - i'm a photographer who also loves to make cinematographs and creating minimalistic graphics tends to be my hobby.
 - i have a deep curiosity for anything that excites me, that's how i got into all my hobbies and even programming.
 
 #### proud projects
 some projects that i am proud of.
+- [storymaker](https://storymkr.co): your ai storyteller, play with interactive stories, or read with chapters on stories you generate with us.
 - [flyght](https://flyght.mihou.pw): bringing know-your-member system to Discord.
 - [notie](https://github.com/ShindouMihou/notie): simply minimal, offline, notie-taking mobile application!
 - [siopao](https://github.com/ShindouMihou/siopao): bun-inspired file i/o in golang!
